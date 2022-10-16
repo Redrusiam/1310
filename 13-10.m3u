@@ -195,3 +195,5 @@ http://127.0.0.1:6878/ace/getstream?id=0000000000000000000000000000000000000000
 http://127.0.0.1:6878/ace/getstream?id=109c70ce6abc73be01a82571470e3402e4714819
 #EXTINF:-1 group-title="Otro contenido" tvg-id="" tvg-logo="" ,ML Campeones 3  4k 
 http://127.0.0.1:6878/ace/getstream?id=684e5c085484e8ea79858713eeb7a3668baca29e 
+#EXTINF:-1 group-title="Otro contenido" tvg-id="M+ #0 HD" tvg-logo="https://i.ibb.co/1mdGqWc/Cero.jpg" ,#0
+http://127.0.0.1:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
